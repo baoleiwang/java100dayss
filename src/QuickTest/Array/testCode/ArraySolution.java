@@ -1,5 +1,8 @@
 package QuickTest.Array.testCode;
 
+import java.lang.reflect.Array;
+import java.util.Arrays;
+
 /**
  * @author yxh
  * @description 说明：在此类中做测试题，使用构造函数实施main方法作为调试入口
